@@ -1,0 +1,13 @@
+name: food_demand_forecasting
+channels:
+  - default
+  - conda-forge
+dependencies:
+  - python=3.8
+  - jupyterlab
+  - pip
+  - plotly
+  - numpy
+  - pandas
+  - scikit-learn
+  - statsmodel
