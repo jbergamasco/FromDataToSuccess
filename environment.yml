@@ -4,10 +4,12 @@ channels:
   - conda-forge
 dependencies:
   - python=3.8
+  - ipykernel
   - jupyterlab
   - pip
   - plotly
   - numpy
   - pandas
   - scikit-learn
-  - statsmodel
+  - statsmodels=0.14.0
+  - matplotlib
