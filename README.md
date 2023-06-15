@@ -1,7 +1,7 @@
 # From Data To Success
 *How to Transform Raw Data Into Tangible Results*
 
-> ***This repository was built as part of a workshop for the WIDS (Women in Data Science) Córdoba 2023 edition. During the workshop we will use [this Colaboratory notebook](https://drive.google.com/file/d/1P0LG10-NtamcRewz37AWMGUNiaXU_neX/view?usp=sharing)***
+> ***This repository was built as part of a workshop for the WIDS (Women in Data Science) Córdoba 2023 edition. During the workshop we will use [this Colaboratory notebook](https://drive.google.com/file/d/1P0LG10-NtamcRewz37AWMGUNiaXU_neX/view?usp=sharing).***
 
 ## Repository Project Organization
 
